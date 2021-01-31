@@ -10,7 +10,7 @@ Data Scientist in progress.
 **Background in:** Oracle, Mysql, php, Java.
 
 **Links:**
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@adeilsonjunior)
 
 
 ## Projetos:
